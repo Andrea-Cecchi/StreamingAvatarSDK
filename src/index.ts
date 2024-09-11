@@ -236,7 +236,7 @@ class StreamingAvatar {
       text: requestData.text,
       session_id: requestData.sessionId,
       task_mode: 'async',
-      task_type: 'talk',
+      task_type: 'repeat',
     });
   }
 
